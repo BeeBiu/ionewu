@@ -1,4 +1,4 @@
-#ionewu 大鹏提速 自动提速工具 Windows程序
+# ionewu 大鹏提速 自动提速工具 Windows程序
 根据 https://k.ionewu.com/web/app/ 网页封装，模拟post请求实现定时提速
 使用需登陆此页面后从本地cookie处获得UID和OPENID的值后填入程序才能实现定时提速功能
 
